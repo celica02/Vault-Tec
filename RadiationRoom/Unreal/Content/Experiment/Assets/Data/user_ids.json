@@ -19,6 +19,24 @@
 					"CSN_BO", "CSN_BP", "CSN_BQ", "CSN_BR", "CSN_BS", "CSN_BT", "CSN_BU", 
 					"CSN_BV", "CSN_BW", "CSN_BX", "CSN_BY", "CSN_BZ" 
 				]
+			},
+			{
+				"GroupType": "BASE",
+				"IDs": [
+					"FDI_AA", "FDI_AB", "FDI_AC", "FDI_AD", "FDI_AE", "FDI_AF", "FDI_AG", 
+					"FDI_AH", "FDI_AI", "FDI_AJ", "FDI_AK", "FDI_AL", "FDI_AM", "FDI_AN",
+					"FDI_AO", "FDI_AP", "FDI_AQ", "FDI_AR", "FDI_AS", "FDI_AT", "FDI_AU", 
+					"FDI_AV", "FDI_AW", "FDI_AX", "FDI_AY", "FDI_AZ" 
+				]
+			},
+			{
+				"GroupType": "VID",
+				"IDs": [
+					"FDI_BA", "FDI_BB", "FDI_BC", "FDI_BD", "FDI_BE", "FDI_BF", "FDI_BG", 
+					"FDI_BH", "FDI_BI", "FDI_BJ", "FDI_BK", "FDI_BL", "FDI_BM", "FDI_BN",
+					"FDI_BO", "FDI_BP", "FDI_BQ", "FDI_BR", "FDI_BS", "FDI_BT", "FDI_BU", 
+					"FDI_BV", "FDI_BW", "FDI_BX", "FDI_BY", "FDI_BZ" 
+				]
 			}
 		]
 	}
