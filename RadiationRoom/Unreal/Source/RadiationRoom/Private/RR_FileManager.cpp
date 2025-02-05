@@ -6,6 +6,26 @@
 #include "HAL/PlatformFileManager.h"
 #include "Misc/FileHelper.h"
 
+
+bool URR_FileManager::DirectoryExists(FString Path, FString DirectoryName)
+{
+	FString fullPath = Path + "/" + DirectoryName;
+	return FPlatformFileManager::Get().GetPlatformFile().DirectoryExists(*fullPath);
+}
+
+bool URR_FileManager::FileExists(FString Path, FString Filename)
+{
+	FString fullPath = Path + "/" + Filename;
+	return FPlatformFileManager::Get().GetPlatformFile().FileExists(*fullPath);
+}
+
+void URR_FileManager::CreateDirectory(FString Path, FString DirectoryName)
+{
+	FString fullPath = Path + "/" + DirectoryName;
+	if (!DirectoryExists(Path, DirectoryName))
+		FPlatformFileManager::Get().GetPlatformFile().CreateDirectory(*fullPath);
+}
+
 FString URR_FileManager::ReadFile(FString FilePath, bool& bOutSuccess, FString& OutInfoMessage) {
 	if (!FPlatformFileManager::Get().GetPlatformFile().FileExists(*FilePath)) {
 		bOutSuccess = false;

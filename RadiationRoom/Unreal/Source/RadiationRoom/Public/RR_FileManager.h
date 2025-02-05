@@ -15,6 +15,14 @@ class RADIATIONROOM_API URR_FileManager : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 
 public:
+	UFUNCTION(BlueprintCallable, category = "RR File Manager")
+	static bool DirectoryExists(FString Path, FString DirectoryName);
+
+	UFUNCTION(BlueprintCallable, category = "RR File Manager")
+	static bool FileExists(FString Path, FString FileName);
+
+	UFUNCTION(BlueprintCallable, category = "RR File Manager")
+	static void CreateDirectory(FString Path, FString DirectoryName);
 
 	UFUNCTION(BlueprintCallable, category = "RR File Manager")
 	static FString ReadFile(FString FilePath, bool& bOutSuccess, FString& OutInfoMessage);
