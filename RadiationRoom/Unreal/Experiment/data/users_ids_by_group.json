@@ -1,0 +1,18 @@
+{
+	"TSV": ["CSN_AA", "CSN_AB", "CSN_AC", "CSN_AD", "CSN_AE", "CSN_AF", "CSN_AG", 
+			"CSN_AH", "CSN_AI", "CSN_AJ", "CSN_AK", "CSN_AL", "CSN_AM", "CSN_AN",
+			"CSN_AO", "CSN_AP", "CSN_AQ", "CSN_AR", "CSN_AS", "CSN_AT", "CSN_AU", 
+			"CSN_AV", "CSN_AW", "CSN_AX", "CSN_AY", "CSN_AZ"],
+	"CTRL": ["CSN_BA", "CSN_BB", "CSN_BC", "CSN_BD", "CSN_BE", "CSN_BF", "CSN_BG", 
+			"CSN_BH", "CSN_BI", "CSN_BJ", "CSN_BK", "CSN_BL", "CSN_BM", "CSN_BN",
+			"CSN_BO", "CSN_BP", "CSN_BQ", "CSN_BR", "CSN_BS", "CSN_BT", "CSN_BU", 
+			"CSN_BV", "CSN_BW", "CSN_BX", "CSN_BY", "CSN_BZ"],
+	"BASE": ["FDI_AA", "FDI_AB", "FDI_AC", "FDI_AD", "FDI_AE", "FDI_AF", "FDI_AG", 
+			"FDI_AH", "FDI_AI", "FDI_AJ", "FDI_AK", "FDI_AL", "FDI_AM", "FDI_AN",
+			"FDI_AO", "FDI_AP", "FDI_AQ", "FDI_AR", "FDI_AS", "FDI_AT", "FDI_AU", 
+			"FDI_AV", "FDI_AW", "FDI_AX", "FDI_AY", "FDI_AZ"],
+	"VID": ["FDI_BA", "FDI_BB", "FDI_BC", "FDI_BD", "FDI_BE", "FDI_BF", "FDI_BG", 
+			"FDI_BH", "FDI_BI", "FDI_BJ", "FDI_BK", "FDI_BL", "FDI_BM", "FDI_BN",
+			"FDI_BO", "FDI_BP", "FDI_BQ", "FDI_BR", "FDI_BS", "FDI_BT", "FDI_BU", 
+			"FDI_BV", "FDI_BW", "FDI_BX", "FDI_BY", "FDI_BZ"]
+}
