@@ -1,0 +1,3 @@
+id,user_id,experiment_id,scenario_type,event_type,event_state,event_datetime
+0,"FDI_BF","","T1_BasicMechanics","00001","Completed","2025-2-11 15:24:39.71"
+1,"FDI_BF","","T1_BasicMechanics","T1001","Started","2025-2-11 15:24:56.703"
