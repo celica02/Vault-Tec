@@ -1,1 +1,20 @@
-{"ResearcherAndExperiment":{"ResearcherName":"Alejandro Villar","ComputerID":"Alienware","ExperimentID":"TextImpact","SessionID":"1"},"UserAndGroup":{"UserID":"FDI_AC","GroupType":"BASE","Date":"2025-2-17 18:45:51","UserSelectionType":"Continuous","IndexByGroup":{"CTRL":-1,"TSV":-1,"BASE":2,"VID":0}}}
+{
+    "ResearcherAndExperiment": {
+        "ResearcherName": "Pablo Sánchez",
+        "ComputerID": "Alienware",
+        "ExperimentID": "TextImpact",
+        "SessionID": "1"
+    },
+    "UserAndGroup": {
+        "UserID": "",
+        "GroupType": "BASE",
+        "Date": "2025-2-11 14:16:16",
+        "UserSelectionType": "Continuous",
+        "IndexByGroup": {
+            "CTRL": -1,
+            "TSV": -1,
+            "BASE": -1,
+            "VID": -1
+        }
+    }
+}

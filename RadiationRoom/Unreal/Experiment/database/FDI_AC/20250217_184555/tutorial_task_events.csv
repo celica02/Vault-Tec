@@ -1,5 +1,0 @@
-id,user_id,experiment_id,scenario_type,tutorial_item_id,event_type,event_datetime
-0,"FDI_AC","","T1_BasicMechanics","OI_Detection","completed","2025-2-17 18:46:14.109"
-1,"FDI_AC","","T1_BasicMechanics","OI_GrabRelease","completed","2025-2-17 18:46:14.195"
-2,"FDI_AC","","T1_BasicMechanics","OI_Placement","completed","2025-2-17 18:46:14.324"
-3,"FDI_AC","","T1_BasicMechanics","CI_Conversation","completed","2025-2-17 18:46:14.485"
