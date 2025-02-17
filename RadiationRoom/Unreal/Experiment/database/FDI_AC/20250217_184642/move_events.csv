@@ -1,0 +1,2 @@
+id,user_id,experiment_id,scenario_type,move_type,start_datetime,end_datetime,start_position,end_position,distance
+0,"FDI_AC","","S1_BasicMechanics","real_life","1-1-1 0:0:0.0","2025-2-17 18:46:43.226","(0.0;0.0;0.0)","(25.694912;-18.590208;0.0)","0.317147"
