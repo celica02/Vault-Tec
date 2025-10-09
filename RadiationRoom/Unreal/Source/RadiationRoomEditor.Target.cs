@@ -8,8 +8,10 @@ public class RadiationRoomEditorTarget : TargetRules
 	public RadiationRoomEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V5;
+        CppStandard = CppStandardVersion.Cpp20;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;
 
-		ExtraModuleNames.AddRange( new string[] { "RadiationRoom" } );
+        ExtraModuleNames.AddRange( new string[] { "RadiationRoom" } );
 	}
 }
