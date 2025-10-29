@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor.exe" "D:\CELIA\GGJ2025\Vault-Tec\RadiationRoom\Unreal\RadiationRoom.uproject" -game -RexX=800 -RexY=900 -WinX=0 -WinY=20 -log

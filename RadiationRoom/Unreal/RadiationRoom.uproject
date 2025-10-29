@@ -19,8 +19,7 @@
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
-				"Android",
-				"HoloLens"
+				"Android"
 			]
 		},
 		{
@@ -32,8 +31,7 @@
 			"Name": "LiveLinkXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
+				"Win64"
 			]
 		},
 		{
@@ -76,6 +74,10 @@
 		},
 		{
 			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesNull",
 			"Enabled": true
 		}
 	]

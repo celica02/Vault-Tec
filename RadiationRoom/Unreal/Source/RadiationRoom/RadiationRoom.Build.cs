@@ -21,9 +21,10 @@ public class RadiationRoom : ModuleRules
 				"Json",
 				"JsonUtilities"
 			});
+        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PrivateDependencyModuleNames.AddRange(
-			new string[] {  });
+        PrivateDependencyModuleNames.AddRange(new string[] { "OnlineSubsystemUtils", "OnlineSubsystem", "OnlineSubsystemNull" });
+
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
